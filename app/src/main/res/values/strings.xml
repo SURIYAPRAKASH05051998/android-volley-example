@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VolleyBasic</string>
+    <string name="click_instruction">Click Here To Send HTTP Request</string>
+</resources>
